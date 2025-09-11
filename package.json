@@ -6,7 +6,7 @@
   "homepage": "https://tate-t.github.io/Vite_vanilla-app-template/",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Vite_vanilla-app-template/",
+    "build": "vite build --base=/Hellish-English-2nd-Group/",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
