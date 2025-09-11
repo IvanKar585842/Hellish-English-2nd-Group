@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tate-t.github.io/Vite_vanilla-app-template/",
+  "homepage": "https://IvanKar585842.github.io/Hellish-English-2nd-Group/",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/Hellish-English-2nd-Group/",
