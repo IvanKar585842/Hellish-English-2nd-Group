@@ -8,6 +8,7 @@ export default defineConfig({
     global: {},
   },
   root: 'src',
+  base: "/Hellish-English-2nd-Group/",
   build: {
     rollupOptions: {
       input: glob.sync('./src/*.html'),
